@@ -16,8 +16,7 @@ This analysis was performed using R. Required libraries include:
 - `stringr`
 
 To install these libraries, use:
-```r
-install.packages(c("ggplot2", "readr", "dplyr", "tidyr", "reprex", "stringr"))```
+```r install.packages(c("ggplot2", "readr", "dplyr", "tidyr", "reprex", "stringr"))```
 
 # Files
 - Student-athlete_performance_analysis.pdf - A knitted file of the R markdown file
