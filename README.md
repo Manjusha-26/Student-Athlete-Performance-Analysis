@@ -39,15 +39,26 @@ install.packages(c("ggplot2", "readr", "dplyr", "tidyr", "reprex", "stringr"))``
 - **APR rates increase gradually from 2004 to 2014.**
 - **Notable increases in median APR rates are observed every four years.**
 
-
-
 ## Gender Analysis
 - Breakdown of average APR rates by gender showing higher rates for female athletes consistently over the years.
-![Uploading image.png…]()
 
 
 ## Visualizations
 - Box plots and bar graphs illustrate the distribution and differences in APR rates over the years and between genders.
+
+## Visualization - 1
+<img width="716" alt="image" src="https://github.com/user-attachments/assets/a4be66d4-e10a-43c3-a963-8f1587e39c01">
+
+## Visualization - 2
+<img width="712" alt="image" src="https://github.com/user-attachments/assets/dafdca91-6da7-456b-9607-57f15f340780">
+
+
+## Visualization - 3
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/ac4b5613-39cb-48e3-8ba9-eb5c9d2051e2">
+
+## Visualization - 4
+<img width="694" alt="image" src="https://github.com/user-attachments/assets/7d65efbf-e671-444a-aba9-1067e62823f6">
+
 
 # Results
 
